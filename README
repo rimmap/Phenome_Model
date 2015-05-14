@@ -1,0 +1,15 @@
+February 2015
+Rimma Pivovarov
+
+This repository contains code created for Phenome model version 1. More on the phenome model in:
+Pivovarov R, Perotte AJ, Grave E, Angiolillo J, Wiggins CH, Elhadad N. Learning Probabilistic Phenotypes from Heterogeneous Patient Record Data.
+
+
+The input to the inference engine is a few different files that can be created from any EHR dataset.  The input files are in the "data" directory, the "examples" directory there is just a set of example data with which to run the inference engine. 
+
+Please note: the examples are completely made up and will not produce reasonable phenotypes.
+
+The results directory will collect all of the results of the learned phenome model.  This includes serialized variables saved every few iterations and every time a maximum log likelihood is reached.  In addition, the log likelihood numbers are saved along with the learned phenotypes at each maximum log likelihood.
+
+
+

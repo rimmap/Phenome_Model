@@ -1,0 +1,3 @@
+This is where the output of the phenome model writes out results.
+The learning and testing results go in here, of course this can be modified.
+The setting of the learned model, the learned phenotypes, the inference on the test patient, the log likelihood numbers, etc are all saved here
