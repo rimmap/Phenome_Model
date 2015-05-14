@@ -1,9 +1,8 @@
-February 2015
+May 2015
 Rimma Pivovarov
 
 This repository contains code created for Phenome model version 1. More on the phenome model in:
-Pivovarov R, Perotte AJ, Grave E, Angiolillo J, Wiggins CH, Elhadad N. Learning Probabilistic Phenotypes from Heterogeneous Patient Record Data.
-
+Pivovarov R, Perotte AJ, Grave E, Angiolillo J, Wiggins CH, Elhadad N. Learning Probabilistic Phenotypes from Heterogeneous EHR Data.
 
 The input to the inference engine is a few different files that can be created from any EHR dataset.  The input files are in the "data" directory, the "examples" directory there is just a set of example data with which to run the inference engine. 
 
